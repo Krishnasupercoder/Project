@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    color: darkcyan;
+    font-family: monospace;
+}
+
+img {
+    width: 600px;
+    height: 400px;
+    margin-left: 100;
+
+
+}
+
+body {
+    background-color:
+        gold
+}
+
+p {
+    text-align: center;
+    font-family: cursive;
+    color: darkgreen
+}
+
+
+.ibox {
+    float: left;
+    padding "10"px;
+    margin top="90";
+
+}
+
+div {
+    background-color: antiquewhite;
+    width="200";
+    height="100";
+    margin-left: 50px;
+}
+
+.pro {
+    float: left;
+    padding "10"px;
+    margin top="90";
+
+}
+
+date {
+    text-align: center
+}
